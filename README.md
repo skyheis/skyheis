@@ -1,7 +1,11 @@
 <p align="center">
-  [![ggiannit's 42 stats](https://badge42.vercel.app/api/v2/clfgwfx7i006808m8li5sv2q8/stats?cursusId=21&coalitionId=284)]
+  <img src="https://badge42.vercel.app/api/v2/clfgwfx7i006808m8li5sv2q8/stats?cursusId=21&coalitionId=284" />
 </p>
+
 <!--
+
+  [![ggiannit's 42 stats](https://badge42.vercel.app/api/v2/clfgwfx7i006808m8li5sv2q8/stats?cursusId=21&coalitionId=284)]
+
 **skyheis/skyheis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
